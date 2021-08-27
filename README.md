@@ -7,7 +7,10 @@ https://pensive-hawking-ee00bf.netlify.app/
 
 ## Description
 
-The app displays a client side version of a chat app. It allows a conversation between a User and a Website staff. There is a toggle at the top of the chatbox that allows an individal to identify as a User or a Website staff. 
+* The app displays a client side version of a chat app.
+* Click on the icon at the bottom right to open the chat.
+* It allows a conversation between a User and a Website staff. 
+* There is a toggle at the top of the chatbox that allows an individal to identify as a User or a Website staff. 
 
 ## Available Scripts
 
