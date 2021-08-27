@@ -40,7 +40,7 @@ function App() {
   }, [messages])
 
   useEffect(() => {
-    axios.delete("messages/del").then((response) => {
+    axios.get("messages/del").then((response) => {
       axios.post("messages/new", {
         message: "Hi, how can I help you today",
         name: "Staff",
